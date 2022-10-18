@@ -1,1 +1,2 @@
-# java script day 7
+# java script day 6
+
